@@ -1,0 +1,19 @@
+{
+  "name": "C/C++ Runner: Debug Session",
+  "type": "cppdbg",
+  "request": "launch",
+  "args": [],
+  "stopAtEntry": false,
+  "externalConsole": true,
+  "cwd": "c:/Users/subad/OneDrive/Desktop/ES with IOT/C Programming",
+  "program": "c:/Users/subad/OneDrive/Desktop/ES with IOT/C Programming/build/Debug/outDebug.exe",
+  "MIMode": "gdb",
+  "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
+  "setupCommands": [
+    {
+      "description": "Enable pretty-printing for gdb",
+      "text": "-enable-pretty-printing",
+      "ignoreFailures": true
+    }
+  ]
+}
